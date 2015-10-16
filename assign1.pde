@@ -56,7 +56,7 @@ void draw() {
   
   image(fighter,550,240);
   
-  image(enemy,x=x+4,random);
+  image(enemy,x=x+4,100);
   
   image(treasure,z,y);
   
